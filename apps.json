@@ -5,6 +5,6 @@
         "description": "testing of the TB Downloader",
         "authors": ["XSTARS"],
         "pkg-name": "testapp",
-        "pkg-download": "https://raw.githubusercontent.com/TerbiumOS/app-repo/main/assets/com.tb.testapp/index.json"
+        "pkg-download": "https://raw.githubusercontent.com/Notplayingallday383/app-repo/main/assets/com.tb.testapp/index.json"
     }
 ]
