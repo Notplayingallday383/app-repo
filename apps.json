@@ -1,24 +1,10 @@
 [
     {
-        "name": "Ruffle",
-        "icon": "https://tbapps.pages.dev/assets/com.tb.ruffle/icon.svg",
-        "description": "Ruffle is a Flash Player emulator built in the Rust programming language.",
-        "authors": ["Ruffle Team"],
-        "pkg-name": "ruffle-rs",
-        "wmArgs": {
-            "title": {
-                "text": "Ruffle",
-                "weight": 600
-            },
-            "icon": "https://tbapps.pages.dev/assets/com.tb.ruffle/icon.svg",
-            "src": "https://tbapps.pages.dev/assets/com.tb.ruffle/index.html",
-            "size": {
-                "width": 600,
-                "height": 400
-            },
-            "single": true,
-            "resizable": true,
-            "app_id": "com.tb.ruffle"
-        }      
+        "name": "testapp",
+        "icon": "https://avatars.githubusercontent.com/u/109819274?s=200&v=4",
+        "description": "testing of the TB Downloader",
+        "authors": ["XSTARS"],
+        "pkg-name": "testapp",
+        "pkg-download": "https://raw.githubusercontent.com/TerbiumOS/app-repo/main/assets/com.tb.testapp/index.json"
     }
 ]
