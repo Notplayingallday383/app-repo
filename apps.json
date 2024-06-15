@@ -1,7 +1,7 @@
 [
     {
         "name": "xShot",
-        "icon": "./assets/xshot.svg",
+        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/xshot.svg",
         "description": "A simple screenshoting utility for Terbium",
         "version": "1.0-rc1",
         "authors": ["XSTARS"],
