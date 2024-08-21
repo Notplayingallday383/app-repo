@@ -7,5 +7,23 @@
         "authors": ["XSTARS"],
         "pkg-name": "xshot",
         "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/xShot.TAPP"
+    },
+    {
+        "name": "GitGui-dev",
+        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/git.svg",
+        "description": "The development build of GitGui",
+        "version": "1.0-dev1",
+        "authors": ["XSTARS"],
+        "pkg-name": "GitGui-dev",
+        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/gitdev.TAPP"
+    },
+    {
+        "name": "TB Dev SDK 24",
+        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tb.png",
+        "description": "The development build of GitGui",
+        "version": "1.0-beta",
+        "authors": ["TerbiumOS"],
+        "pkg-name": "tbdevsdk24",
+        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk.TAPP"
     }
 ]
