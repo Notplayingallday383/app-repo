@@ -20,8 +20,8 @@
     {
         "name": "TB Dev SDK 24",
         "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tb.png",
-        "description": "The development build of GitGui",
-        "version": "1.0-beta",
+        "description": "Learn about TB Apis, Create manifests, Create packages, all in one app!",
+        "version": "1.0-beta.1",
         "authors": ["TerbiumOS"],
         "pkg-name": "tbdevsdk24",
         "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk.TAPP"
