@@ -25,5 +25,13 @@
         "authors": ["TerbiumOS"],
         "pkg-name": "tbdevsdk24",
         "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk.TAPP"
+    },
+    {
+        "name": "Snae Player",
+        "icon": "https://raw.githubusercontent.com/MercuryWorkshop/anura-repo/master/apps/anura.music/icon.png",
+        "description": "A music client ported to Anura",
+        "authors": ["Mercury Workshop"],
+        "pkg-name": "snaeplayer",
+        "anura-pkg": "https://raw.githubusercontent.com/MercuryWorkshop/anura-repo/master/apps/anura.music/app.zip"
     }
 ]
