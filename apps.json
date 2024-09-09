@@ -33,5 +33,14 @@
         "authors": ["Mercury Workshop"],
         "pkg-name": "snaeplayer",
         "anura-pkg": "https://raw.githubusercontent.com/MercuryWorkshop/anura-repo/master/apps/anura.music/app.zip"
+    },
+    {
+        "name": "ti-84 Plus CE Calculator",
+        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/ading-ti84pce.png",
+        "description": "Ported by ading2210, The TestNav ti84 Plus CE Calculator",
+        "version": "1.0.0",
+        "authors": ["ading2210"],
+        "pkg-name": "ti84calc",
+        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/ading-ti84pce.TAPP"
     }
 ]
