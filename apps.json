@@ -6,7 +6,7 @@
         "version": "1.0-rc2",
         "authors": ["XSTARS"],
         "pkg-name": "xshot",
-        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/xShot.TAPP"
+        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/xShot.TAPP.zip"
     },
     {
         "name": "GitGui-dev",
@@ -15,7 +15,7 @@
         "version": "1.0-dev1",
         "authors": ["XSTARS"],
         "pkg-name": "GitGui-dev",
-        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/gitdev.TAPP"
+        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/gitdev.TAPP.zip"
     },
     {
         "name": "TB Dev SDK 24",
@@ -24,7 +24,7 @@
         "version": "1.0-beta.1",
         "authors": ["TerbiumOS"],
         "pkg-name": "tbdevsdk24",
-        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk.TAPP"
+        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk.TAPP.zip"
     },
     {
         "name": "Snae Player",
@@ -41,6 +41,6 @@
         "version": "1.0.0",
         "authors": ["ading2210"],
         "pkg-name": "ti84calc",
-        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/ading-ti84pce.TAPP"
+        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/ading-ti84pce.TAPP.zip"
     }
 ]
