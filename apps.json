@@ -20,11 +20,20 @@
     {
         "name": "TB Dev SDK 24",
         "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tb.png",
-        "description": "Learn about TB Apis, Create manifests, Create packages, all in one app!",
+        "description": "! Deprecated ! Use TB Dev SDK 25, Learn about TB Apis, Create manifests, Create packages, all in one app!",
         "version": "1.0-beta.1",
         "authors": ["TerbiumOS"],
         "pkg-name": "tbdevsdk24",
         "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk.TAPP.zip"
+    },
+    {
+        "name": "TB Dev SDK 25",
+        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/newtb.ico",
+        "description": "Learn about TB Apis, Create manifests, Create packages, all in one app!",
+        "version": "1.0.0",
+        "authors": ["TerbiumOS"],
+        "pkg-name": "tbdevsdk25",
+        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk25.tapp.zip"
     },
     {
         "name": "Snae Player",
