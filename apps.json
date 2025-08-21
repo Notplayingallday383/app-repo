@@ -1,55 +1,62 @@
-[
-    {
-        "name": "xShot",
-        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/xshot.svg",
-        "description": "A simple screenshoting utility for Terbium",
-        "version": "1.0-rc2",
-        "authors": ["XSTARS"],
-        "pkg-name": "xshot",
-        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/xShot.TAPP.zip"
-    },
-    {
-        "name": "GitGui-dev",
-        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/git.svg",
-        "description": "The development build of GitGui",
-        "version": "1.0-dev1",
-        "authors": ["XSTARS"],
-        "pkg-name": "GitGui-dev",
-        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/gitdev.TAPP.zip"
-    },
-    {
-        "name": "TB Dev SDK 24",
-        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tb.png",
-        "description": "! Deprecated ! Use TB Dev SDK 25, Learn about TB Apis, Create manifests, Create packages, all in one app!",
-        "version": "1.0-beta.1",
-        "authors": ["TerbiumOS"],
-        "pkg-name": "tbdevsdk24",
-        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk.TAPP.zip"
-    },
-    {
-        "name": "TB Dev SDK 25",
-        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/newtb.ico",
-        "description": "Learn about TB Apis, Create manifests, Create packages, all in one app!",
-        "version": "1.0.0",
-        "authors": ["TerbiumOS"],
-        "pkg-name": "tbdevsdk25",
-        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk25.tapp.zip"
-    },
-    {
-        "name": "Snae Player",
-        "icon": "https://raw.githubusercontent.com/MercuryWorkshop/anura-repo/master/apps/anura.music/icon.png",
-        "description": "A music client ported to Anura",
-        "authors": ["Mercury Workshop"],
-        "pkg-name": "snaeplayer",
-        "anura-pkg": "https://raw.githubusercontent.com/MercuryWorkshop/anura-repo/master/apps/anura.music/app.zip"
-    },
-    {
-        "name": "ti-84 Plus CE Calculator",
-        "icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/ading-ti84pce.png",
-        "description": "Ported by ading2210, The TestNav ti84 Plus CE Calculator",
-        "version": "1.0.0",
-        "authors": ["ading2210"],
-        "pkg-name": "ti84calc",
-        "pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/ading-ti84pce.TAPP.zip"
-    }
-]
+{
+	"repo": {
+		"name": "XSTARS XTRAS",
+		"icon": "https://avatars.githubusercontent.com/u/72810050?v=4"
+	},
+	"apps": [
+		{
+			"name": "xShot",
+			"icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/xshot.svg",
+			"description": "A simple screenshoting utility for Terbium",
+			"version": "1.0-rc2",
+			"authors": "XSTARS",
+			"pkg-name": "xshot",
+			"pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/xShot.TAPP.zip"
+		},
+		{
+			"name": "GitGui-dev",
+			"icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/git.svg",
+			"description": "The development build of GitGui",
+			"version": "1.0-dev1",
+			"authors": "XSTARS",
+			"pkg-name": "GitGui-dev",
+			"pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/gitdev.TAPP.zip"
+		},
+		{
+			"name": "TB Dev SDK 24",
+			"icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tb.png",
+			"description": "! Deprecated ! Use TB Dev SDK 25, Learn about TB Apis, Create manifests, Create packages, all in one app!",
+			"version": "1.0-beta.1",
+			"authors": "TerbiumOS",
+			"pkg-name": "tbdevsdk24",
+			"pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk.TAPP.zip"
+		},
+		{
+			"name": "TB Dev SDK 25",
+			"icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/newtb.ico",
+			"description": "Learn about TB Apis, Create manifests, Create packages, all in one app!",
+			"version": "1.0.0",
+			"authors": "TerbiumOS",
+			"pkg-name": "tbdevsdk25",
+			"pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/tbdevsdk25.tapp.zip"
+		},
+		{
+			"name": "Snae Player",
+			"icon": "https://raw.githubusercontent.com/MercuryWorkshop/anura-repo/master/apps/anura.music/icon.png",
+			"description": "A music client ported to Anura",
+			"authors": "Mercury Workshop",
+			"pkg-name": "snaeplayer",
+			"anura-pkg": "https://raw.githubusercontent.com/MercuryWorkshop/anura-repo/master/apps/anura.music/app.zip"
+		},
+		{
+			"name": "ti-84 Plus CE Calculator",
+			"icon": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/ading-ti84pce.png",
+			"description": "Ported by ading2210, The TestNav ti84 Plus CE Calculator",
+			"version": "1.0.0",
+			"authors": "ading2210",
+			"pkg-name": "ti84calc",
+			"pkg-download": "https://github.com/Notplayingallday383/app-repo/raw/main/assets/ading-ti84pce.TAPP.zip"
+		}
+	],
+	"packages": []
+}
